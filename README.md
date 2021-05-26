@@ -5,17 +5,14 @@
 ### Мои навыки:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![СSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap)
-![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
-![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-black?style=flat-square&logo=redux-thunk)
-![React-Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router)
-![StencilJs](https://img.shields.io/badge/StencilJs-black?style=flat-square&logo=ionic)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=prettier)
 ![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=eslint)
 
 
